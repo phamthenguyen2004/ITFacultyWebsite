@@ -1,4 +1,5 @@
 IT Faculty Website
+
 A website providing information about the IT faculty, including courses, faculty members, and events.
 
 Technologies Used:
