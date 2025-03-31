@@ -2,19 +2,18 @@ IT Faculty Website
 A website providing information about the IT faculty, including courses, faculty members, and events.
 
 Technologies Used:
-HTML: Structures the website’s content.
+- HTML: Structures the website’s content.
 
-CSS: Styles and enhances the website’s appearance.
+- CSS: Styles and enhances the website’s appearance.
 
-JavaScript: Adds interactivity and dynamic functionality.
+- JavaScript: Adds interactivity and dynamic functionality.
 
 Key Features:
-Homepage – Displays an overview of the IT faculty, including announcements and highlights.
+- Homepage – Displays an overview of the IT faculty, including announcements and highlights.
 
-Faculty Information – Showcases details about faculty members, their expertise, and contact information.
+- Faculty Information – Showcases details about faculty members, their expertise, and contact information.
 
-Courses Offered – Provides a list of available IT courses, descriptions, and prerequisites.
+- Courses Offered – Provides a list of available IT courses, descriptions, and prerequisites.
 
-News & Events – Updates students with upcoming workshops, conferences, and faculty activities.
+- News & Events – Updates students with upcoming workshops, conferences, and faculty activities.
 
-Contact Form – Allows users to send inquiries or feedback via an interactive form.
